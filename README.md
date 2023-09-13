@@ -43,7 +43,6 @@ A Landing Page de Conversão Suprema é um projeto dedicado à criação de uma 
 
 - **Testes A/B**: Realizamos testes A/B regularmente para identificar o desempenho de diferentes elementos da página e otimizar continuamente a conversão.
 
-- **Análise de Dados**: Integramos ferramentas de análise de dados para acompanhar o comportamento dos visitantes e identificar áreas de melhoria.
 
 Nossa equipe é apaixonada por criar landing pages de alta conversão e estamos comprometidos em ajudar nossos clientes a alcançar o máximo retorno sobre investimento (ROI) em suas campanhas de marketing. Se você busca uma solução eficaz para aumentar suas taxas de conversão e melhorar a usabilidade do seu site, a Landing Page de Conversão Suprema é a escolha certa.
 
