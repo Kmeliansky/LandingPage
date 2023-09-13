@@ -56,6 +56,9 @@ Este projeto utiliza as seguintes tecnologias:
 - HTML5
 - CSS3
 - JavaScript
+- MATERIAL UI
+- BOOTSTRAP
+- REACT
 
 ## Instalação
 
